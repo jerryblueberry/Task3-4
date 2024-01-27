@@ -1,0 +1,114 @@
+[
+  {
+    "id": 205581,
+    "name": "iphone X",
+    "price": 899,
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "quantity": 12,
+    "product_type": "electronics"
+  },
+  {
+    "id": 209581,
+    "name": "Samsung Universe 9",
+    "price": 1249,
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "quantity": 4,
+    "product_type": "electronics"
+  },
+  {
+    "id": 309581,
+    "name": "MacBook Pro",
+    "price": 1749,
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "quantity": 11,
+    "product_type": "electronics"
+  },
+  {
+    "id": 226581,
+    "name": "Daal Masoor 500 grams",
+    "price": 24,
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "quantity": 4,
+    "product_type": "groceries"
+  },
+  {
+    "id": 126581,
+    "name": "Elbow Macaroni - 400 gm",
+    "price": 14,
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "quantity": 12,
+    "product_type": "groceries"
+  },
+  {
+    "id": 226423,
+    "name": "Gulab Powder 50 Gram",
+    "price": 24,
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "quantity": 12,
+    "product_type": "groceries"
+  },
+  {
+    "id": 158423,
+    "name": "Nike Blazer 77",
+    "price": 124,
+    "description": "High Quality Nike Blazer 77.Made in USA",
+    "quantity": 12,
+    "product_type": "clothing"
+  },
+  {
+    "id": 458923,
+    "name": "Adidas Samba",
+    "price": 114,
+    "description": "High Quality Adidas Samba.Special Edition",
+    "quantity": 2,
+    "product_type": "clothing"
+  },
+  {
+    "id": 691923,
+    "name": "Sparco Hoodie",
+    "price": 84,
+    "description": "Sparco official high quality unisex hoodie",
+    "quantity": 12,
+    "product_type": "clothing"
+  },
+  {
+    "id": 121923,
+    "name": "Nike Air Force 1 ",
+    "price": 84,
+    "description": "Triple White Premium, Nike Air Force 1",
+    "quantity": 12,
+    "product_type": "clothing"
+  },
+  {
+    "id": 647183,
+    "name": "Logitech Mouse",
+    "price": 144,
+    "description": "Logitech Gaming Mouse,Wireless and Weight Adjustable",
+    "quantity": 3,
+    "product_type": "electronics"
+  },
+  {
+    "id": 129628,
+    "name": "ROG Gaming Mouse",
+    "price": 124,
+    "description": "Asus Rog  Gaming Mouse,Wireless and Weight Adjustable",
+    "quantity": 13,
+    "product_type": "electronics"
+  },
+  {
+    "id": 382583,
+    "name": "Fantech Keyboard",
+    "price": 54,
+    "description": "RGB Mechanical keyboard.Fantech Mechanical Keyboard",
+    "quantity": 12,
+    "product_type": "electronics"
+  },
+  {
+    "id": 814173,
+    "name": "Current Chicken Masala",
+    "price": 1,
+    "description": "Authentic taste of Nepali Spices,Nepali  Chicken Masala",
+    "quantity": 42,
+    "product_type": "groceries"
+  }
+]
